@@ -8,6 +8,6 @@
 * Classified the SMS as SPAM or HAM based on user input.
 
 ## Codes and Resources
-* Google Colab
+* Google Colab/ jupyter notebook
 * Libraries: numpy, pandas, matplotlib, seaborn, sklearn, nltk
 
